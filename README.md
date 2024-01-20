@@ -19,5 +19,5 @@
 Clone the repository and open `index.html` in a web browser to experience the War Game and test your strategic skills.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://sparkling-lokum-688a75.netlify.app/)
 
